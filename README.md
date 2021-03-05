@@ -1,6 +1,6 @@
 # ApexLegendsCharacterView
 
-ApexLegendsのtracker APIを使用して自身の使用しているレジェンドの使用率をPacked-bubble chartで可視化するプログラムリポジトリ
+ApexLegendsのtracker APIを使用して自身の使用しているレジェンドの使用率をPacked-bubble chartで可視化するプログラムリポジトリ(S8現在)
 
 ## 可視化図
 
