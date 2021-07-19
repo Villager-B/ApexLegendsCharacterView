@@ -10,6 +10,7 @@ import datetime
 import time
 import japanize_matplotlib
 import pandas as pd
+import pickle
 
 base_url = "https://public-api.tracker.gg/v2/apex/standard/"
 params = {"TRN-Api-Key":"XXX"} # You API key
